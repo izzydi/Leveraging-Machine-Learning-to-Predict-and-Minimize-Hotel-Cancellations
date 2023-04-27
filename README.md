@@ -1,11 +1,11 @@
 # Leveraging-Machine-Learning-to-Predict-and-Minimize-Hotel-Cancellations
-You are supporting a hotel with a project aimed to increase revenue from their room bookings. They believe that they can use data science to help them reduce the number of cancellations. This is where you come in!
+## You are supporting a hotel with a project aimed to increase revenue from their room bookings. They believe that they can use data science to help them reduce the number of cancellations. This is where you come in!
 They have asked you to use any appropriate methodology to identify what contributes to whether a booking will be fulfilled or cancelled. They intend to use the results of your work to reduce the chance someone cancels their booking.
 
 # The Data
 They have provided you with their bookings data in a file called hotel_bookings.csv, which contains the following:
 
-Column	Description :
+## Column	Description :
 
 1.Booking_ID	Unique identifier of the booking.
 2.no_of_adults	The number of adults.
