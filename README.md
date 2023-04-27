@@ -5,9 +5,10 @@ They have asked you to use any appropriate methodology to identify what contribu
 # The Data
 They have provided you with their bookings data in a file called hotel_bookings.csv, which contains the following:
 
-Column	Description
-Booking_ID	Unique identifier of the booking.
-no_of_adults	The number of adults.
+Column	Description :
+
+1.Booking_ID	Unique identifier of the booking.
+2.no_of_adults	The number of adults.
 no_of_children	The number of children.
 no_of_weekend_nights	Number of weekend nights (Saturday or Sunday).
 no_of_week_nights	Number of week nights (Monday to Friday).
