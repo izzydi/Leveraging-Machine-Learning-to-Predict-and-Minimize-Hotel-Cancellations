@@ -1,4 +1,4 @@
-# Leveraging-Machine-Learning-to-Predict-and-Minimize-Hotel-Cancellations
+# Leveraging Machine Learning to Predict and Minimize Hotel Cancellations
 
 You are supporting a hotel with a project aimed to increase revenue from their room bookings. 
 They believe that they can use data science to help them reduce the number of cancellations. This is where you come in!
